@@ -1,0 +1,28 @@
+name: socialmediaforbusiness
+favicon: null
+layout_spectrum: 0.082510054577142
+typography_spectrum: 0.6561004160903394
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4590341185685247
+  lightness: 0.4941383053082973
+  saturation: 0.20664972998201847
+  rhythmicContrast: 0.7563725626096129
+purpose: []
